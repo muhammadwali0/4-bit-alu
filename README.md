@@ -97,7 +97,7 @@ B[3:0] ──────────────┤──────── AND
 
 ### ADD Operation
 
-![waveform_add](images/waveform_add.png)
+![waveform_add](images/waveform.png)
 
 Five ADD test vectors stepping through: `5+3=8` (OVF), `15+1=0` (C,Z), `0+0=0` (Z), `7+1=8` (signed OVF), `1+1=2` (P).
 
